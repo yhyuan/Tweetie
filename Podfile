@@ -4,7 +4,7 @@ abstract_target 'TweetieAbstract' do
 
     pod 'RxSwift', '3.1'
     pod 'RxCocoa', '3.1'
-    pod 'RealmSwift', '2.1.2'
+    pod 'RealmSwift', '2.10.2'
     pod 'RxRealm', '0.4.1'
     pod 'Unbox', '2.3.0'
     pod 'Then', '2.1.0'
